@@ -1,8 +1,8 @@
 class Cassette < Formula
   desc "Cassette command-line client"
   homepage "https://cassette.sh"
-  url "https://github.com/Kaizen-Labs-Inc/cassette-cli-releases/releases/download/cassette-cli-v0.1.0/cassette-cli-0.1.0.gem"
-  sha256 "a97903852133cc3a91e5eb80b54217d70767bd75a9eceb1364afe74460e50e74"
+  url "https://github.com/Kaizen-Labs-Inc/cassette-cli-releases/releases/download/cassette-cli-v0.1.1/cassette-cli-0.1.1.gem"
+  sha256 "84b1e531d21dbd39715859099e80f27e3629b7215741686974a82a8b976ea139"
   license "MIT"
 
   depends_on "ruby"
